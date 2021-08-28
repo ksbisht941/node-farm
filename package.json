@@ -1,0 +1,17 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "My first Node.js Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ksbisht",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
